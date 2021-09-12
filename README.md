@@ -1,0 +1,2 @@
+# RecommenderSystemBasedOnAmazonReviews
+For this project, it would be interesting to investigate how the recommendation system works for Amazon. Rather than merely focusing on the ratings, we also investigate the review texts gathered from different users. Given that users’ information is sometimes confidential, it would be useful if we can extract some information from reviews for the recommendation system.
